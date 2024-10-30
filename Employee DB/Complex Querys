@@ -1,0 +1,23 @@
+Here are some complex questions for practicing SQL queries:
+
+1. How would you retrieve the details of employees who earn a salary higher than the average salary of their department?
+   
+2. Can you find the employees who were hired before their managers, along with their manager's details?
+
+3. Write a query to list the departments with more than 3 employees and their total salary expenditure.
+
+4. How would you display the names of employees who work in the same department as 'SMITH' but earn a higher salary than 'SMITH'?
+
+5. How can you find all employees who are earning a salary within the salary range of grade 3 in the `SALGRADE` table?
+
+6. How would you retrieve the employees whose job is 'SALESMAN' and who have not earned any commission?
+
+7. Write a query to find the total number of employees in each department and display only those departments where the count is higher than 5.
+
+8. How would you display the details of employees who do not have a manager?
+
+9. Can you retrieve a list of employees whose salary is greater than the salary of 'JONES' but who have been hired after 'JONES'?
+
+10. How would you find all employees whose total compensation (salary + commission) is more than 2000? 
+
+These queries will help you explore joins, subqueries, aggregations, and conditions in SQL.
